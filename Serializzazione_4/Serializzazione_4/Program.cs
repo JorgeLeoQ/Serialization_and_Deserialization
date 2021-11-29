@@ -21,7 +21,7 @@ namespace Serializzazione_4
             //Serializzaione
             XmlSerializer serializer = new XmlSerializer(typeof(PersonalDetails));
 
-            using(TextWriter writer = new StreamWriter(@"C:\Users\Jorge\Desktop\Esercizi_c_hashtrag\Serializzazione_4\Serializzazione_4\output.xml"))
+            using(TextWriter writer = new StreamWriter(@"..\output.xml"))
             {
                 serializer.Serialize(writer, p);
             }
