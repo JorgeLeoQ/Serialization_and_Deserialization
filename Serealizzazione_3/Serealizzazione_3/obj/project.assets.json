@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jorge\\Desktop\\Esercizi_c_hashtrag\\Serealizzazione_3\\Serealizzazione_3\\Serealizzazione_3.csproj",
+      "projectUniqueName": "C:\\Users\\Jorge\\Desktop\\Serialization_and_Deserialization\\Serealizzazione_3\\Serealizzazione_3\\Serealizzazione_3.csproj",
       "projectName": "Serealizzazione_3",
-      "projectPath": "C:\\Users\\Jorge\\Desktop\\Esercizi_c_hashtrag\\Serealizzazione_3\\Serealizzazione_3\\Serealizzazione_3.csproj",
+      "projectPath": "C:\\Users\\Jorge\\Desktop\\Serialization_and_Deserialization\\Serealizzazione_3\\Serealizzazione_3\\Serealizzazione_3.csproj",
       "packagesPath": "C:\\Users\\Jorge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jorge\\Desktop\\Esercizi_c_hashtrag\\Serealizzazione_3\\Serealizzazione_3\\obj\\",
+      "outputPath": "C:\\Users\\Jorge\\Desktop\\Serialization_and_Deserialization\\Serealizzazione_3\\Serealizzazione_3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

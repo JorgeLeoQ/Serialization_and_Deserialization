@@ -18,7 +18,7 @@ namespace Serealizzazione_3
             //Serealizzazione.
             XmlSerializer xmls = new XmlSerializer(typeof(AddressDetails));
 
-            using (TextWriter tw = new StreamWriter(@"C:\Users\Jorge\Desktop\Esercizi_c_hashtrag\Serealizzazione_3\Serealizzazione_3\output.xml"))
+            using (TextWriter tw = new StreamWriter(@"..\output.xml"))
             {
                 xmls.Serialize(tw, details);
             }
