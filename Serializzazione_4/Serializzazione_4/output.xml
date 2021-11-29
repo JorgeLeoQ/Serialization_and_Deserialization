@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NewRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Address>
+    <StreetName>Via Torino</StreetName>
+    <City>Roma</City>
+  </Address>
+  <Name>Carlo</Name>
+  <Age>20</Age>
+</NewRoot>

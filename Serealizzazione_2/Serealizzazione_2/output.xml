@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<PersonalDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+		 xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<address>
+		<HouseNo>20</HouseNo>
+		<StreetName>Via Torino</StreetName>
+		<City>Roma</City>
+	</address>
+	<Name>Carlo</Name>
+	<Age>20</Age>
+</PersonalDetails>

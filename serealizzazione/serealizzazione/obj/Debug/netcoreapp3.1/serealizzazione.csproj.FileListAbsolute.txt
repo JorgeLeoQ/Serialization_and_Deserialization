@@ -1,0 +1,14 @@
+C:\Users\Jorge\Desktop\Esercizi_c_hashtrag\serealizzazione\serealizzazione\bin\Debug\netcoreapp3.1\serealizzazione.exe
+C:\Users\Jorge\Desktop\Esercizi_c_hashtrag\serealizzazione\serealizzazione\bin\Debug\netcoreapp3.1\serealizzazione.deps.json
+C:\Users\Jorge\Desktop\Esercizi_c_hashtrag\serealizzazione\serealizzazione\bin\Debug\netcoreapp3.1\serealizzazione.runtimeconfig.json
+C:\Users\Jorge\Desktop\Esercizi_c_hashtrag\serealizzazione\serealizzazione\bin\Debug\netcoreapp3.1\serealizzazione.runtimeconfig.dev.json
+C:\Users\Jorge\Desktop\Esercizi_c_hashtrag\serealizzazione\serealizzazione\bin\Debug\netcoreapp3.1\serealizzazione.dll
+C:\Users\Jorge\Desktop\Esercizi_c_hashtrag\serealizzazione\serealizzazione\bin\Debug\netcoreapp3.1\serealizzazione.pdb
+C:\Users\Jorge\Desktop\Esercizi_c_hashtrag\serealizzazione\serealizzazione\obj\Debug\netcoreapp3.1\serealizzazione.csproj.AssemblyReference.cache
+C:\Users\Jorge\Desktop\Esercizi_c_hashtrag\serealizzazione\serealizzazione\obj\Debug\netcoreapp3.1\serealizzazione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Desktop\Esercizi_c_hashtrag\serealizzazione\serealizzazione\obj\Debug\netcoreapp3.1\serealizzazione.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\Esercizi_c_hashtrag\serealizzazione\serealizzazione\obj\Debug\netcoreapp3.1\serealizzazione.AssemblyInfo.cs
+C:\Users\Jorge\Desktop\Esercizi_c_hashtrag\serealizzazione\serealizzazione\obj\Debug\netcoreapp3.1\serealizzazione.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Esercizi_c_hashtrag\serealizzazione\serealizzazione\obj\Debug\netcoreapp3.1\serealizzazione.dll
+C:\Users\Jorge\Desktop\Esercizi_c_hashtrag\serealizzazione\serealizzazione\obj\Debug\netcoreapp3.1\serealizzazione.pdb
+C:\Users\Jorge\Desktop\Esercizi_c_hashtrag\serealizzazione\serealizzazione\obj\Debug\netcoreapp3.1\serealizzazione.genruntimeconfig.cache
