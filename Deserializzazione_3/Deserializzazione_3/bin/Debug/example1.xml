@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+   <AddressList>
+     <Address>
+       <HouseNo>10</HouseNo>
+       <StreetName>Via Milano</StreetName>
+       <City>Roma</City>
+     </Address>
+     <Address>
+       <HouseNo>20</HouseNo>
+       <StreetName>Via Torino</StreetName>
+       <City>Venezia</City>
+     </Address>
+   </AddressList>

@@ -3,6 +3,15 @@ using System.Xml;
 using System.Xml.Serialization;
 using System.IO;
 
+//Obbiettivo è quello di deserializzare il seguente file .xml
+
+//<? xml version = "1.0" encoding = "utf-8" ?>
+//   < AddressDetails xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xmlns: xsd = "http://www.w3.org/2001/XMLSchema" >     
+//         < HouseNo > 20 </ HouseNo >
+//         < StreetName > Via Torino </ StreetName >
+//            < City > Roma </ City >
+//          </ AddressDetails >
+
 namespace Deserializzazione_1
 {
     class Program
@@ -20,7 +29,14 @@ namespace Deserializzazione_1
                 details = (AddressDetails)xmls.Deserialize(sr);
             }
 
-            Console.WriteLine("StreatName: " + details.StreetName + " City: " + details.City + " No: " + details.HouseNo);
+            Console.WriteLine("StreatName: " + details.StreetName);
+            Console.WriteLine("City: " + details.City);
+            Console.WriteLine("No: " + details.HouseNo);
+
+            //Output
+            //StreatName: Via Torino
+            //City: Roma
+            //No: 20
         }
     }
 }

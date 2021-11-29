@@ -12,3 +12,17 @@ C:\Users\Jorge\Desktop\Esercizi_c_hashtrag\Deserializzazione_3\Deserializzazione
 C:\Users\Jorge\Desktop\Esercizi_c_hashtrag\Deserializzazione_3\Deserializzazione_3\obj\Debug\netcoreapp3.1\Deserializzazione_3.pdb
 C:\Users\Jorge\Desktop\Esercizi_c_hashtrag\Deserializzazione_3\Deserializzazione_3\obj\Debug\netcoreapp3.1\Deserializzazione_3.genruntimeconfig.cache
 C:\Users\Jorge\Desktop\Esercizi_c_hashtrag\Deserializzazione_3\Deserializzazione_3\obj\Debug\netcoreapp3.1\Deserializzazione_3.csproj.AssemblyReference.cache
+C:\Users\Jorge\Desktop\Serialization_and_Deserialization\Deserializzazione_3\Deserializzazione_3\bin\Debug\netcoreapp3.1\Deserializzazione_3.exe
+C:\Users\Jorge\Desktop\Serialization_and_Deserialization\Deserializzazione_3\Deserializzazione_3\bin\Debug\netcoreapp3.1\Deserializzazione_3.deps.json
+C:\Users\Jorge\Desktop\Serialization_and_Deserialization\Deserializzazione_3\Deserializzazione_3\bin\Debug\netcoreapp3.1\Deserializzazione_3.runtimeconfig.json
+C:\Users\Jorge\Desktop\Serialization_and_Deserialization\Deserializzazione_3\Deserializzazione_3\bin\Debug\netcoreapp3.1\Deserializzazione_3.runtimeconfig.dev.json
+C:\Users\Jorge\Desktop\Serialization_and_Deserialization\Deserializzazione_3\Deserializzazione_3\bin\Debug\netcoreapp3.1\Deserializzazione_3.dll
+C:\Users\Jorge\Desktop\Serialization_and_Deserialization\Deserializzazione_3\Deserializzazione_3\bin\Debug\netcoreapp3.1\Deserializzazione_3.pdb
+C:\Users\Jorge\Desktop\Serialization_and_Deserialization\Deserializzazione_3\Deserializzazione_3\obj\Debug\netcoreapp3.1\Deserializzazione_3.csproj.AssemblyReference.cache
+C:\Users\Jorge\Desktop\Serialization_and_Deserialization\Deserializzazione_3\Deserializzazione_3\obj\Debug\netcoreapp3.1\Deserializzazione_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Desktop\Serialization_and_Deserialization\Deserializzazione_3\Deserializzazione_3\obj\Debug\netcoreapp3.1\Deserializzazione_3.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\Serialization_and_Deserialization\Deserializzazione_3\Deserializzazione_3\obj\Debug\netcoreapp3.1\Deserializzazione_3.AssemblyInfo.cs
+C:\Users\Jorge\Desktop\Serialization_and_Deserialization\Deserializzazione_3\Deserializzazione_3\obj\Debug\netcoreapp3.1\Deserializzazione_3.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Serialization_and_Deserialization\Deserializzazione_3\Deserializzazione_3\obj\Debug\netcoreapp3.1\Deserializzazione_3.dll
+C:\Users\Jorge\Desktop\Serialization_and_Deserialization\Deserializzazione_3\Deserializzazione_3\obj\Debug\netcoreapp3.1\Deserializzazione_3.pdb
+C:\Users\Jorge\Desktop\Serialization_and_Deserialization\Deserializzazione_3\Deserializzazione_3\obj\Debug\netcoreapp3.1\Deserializzazione_3.genruntimeconfig.cache
