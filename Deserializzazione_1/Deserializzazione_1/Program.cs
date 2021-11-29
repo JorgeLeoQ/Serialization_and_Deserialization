@@ -11,7 +11,7 @@ namespace Deserializzazione_1
         {
             AddressDetails details = new AddressDetails();
 
-            Byte[] ba = File.ReadAllBytes(@"C:\output.xml");
+            Byte[] ba = File.ReadAllBytes(@"..\output.xml");
 
             using (StreamReader sr = new StreamReader(new MemoryStream(ba)))
             {
@@ -20,7 +20,7 @@ namespace Deserializzazione_1
                 details = (AddressDetails)xmls.Deserialize(sr);
             }
 
-            Console.WriteLine("StreatName: " + details.StreetName + " City " + details.City + " No " + details.HouseNo);
+            Console.WriteLine("StreatName: " + details.StreetName + " City: " + details.City + " No: " + details.HouseNo);
         }
     }
 }
